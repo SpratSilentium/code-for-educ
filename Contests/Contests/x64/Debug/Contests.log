@@ -1,0 +1,37 @@
+﻿  Contests.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xhash(118,62): error C2064: результатом вычисления фрагмента не является функция, принимающая 1 аргументов
+  (компиляция исходного файла "Contests.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xhash(118,62):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          E:\VSrepos\Contests\Contests\Contests.cpp(22,30):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "std::unordered_map<pos,pos,std::hash<pos>,std::equal_to<pos>,std::allocator<std::pair<const pos,pos>>>"
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\unordered_map(259,18):
+          во время компиляции функции-члена класс шаблон "pos &std::unordered_map<pos,pos,std::hash<pos>,std::equal_to<pos>,std::allocator<std::pair<const pos,pos>>>::operator [](pos &&)"
+              E:\VSrepos\Contests\Contests\Contests.cpp(32,4):
+              см. первую ссылку на "std::unordered_map<pos,pos,std::hash<pos>,std::equal_to<pos>,std::allocator<std::pair<const pos,pos>>>::operator []" в "bfs"
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\unordered_map(260,22):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<std::_List_node<_Ty,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Hash<std::_Umap_traits<_Kty,pos,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::_Try_emplace<pos,>(_Keyty &&)"
+          with
+          [
+              _Ty=std::pair<const pos,pos>,
+              _Alloc=std::allocator<std::pair<const pos,pos>>,
+              _Kty=pos,
+              _Hasher=std::hash<pos>,
+              _Keyeq=std::equal_to<pos>,
+              _Keyty=pos
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xhash(700,31):
+          во время компиляции функции-члена класс шаблон "size_t std::_Uhash_compare<_Kty,_Hasher,_Keyeq>::operator ()<_Keyty>(const _Keyty &) noexcept(<expr>) const"
+          with
+          [
+              _Kty=pos,
+              _Hasher=std::hash<pos>,
+              _Keyeq=std::equal_to<pos>,
+              _Keyty=pos
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xhash(141,72):
+          выполняется компиляция ссылки на шаблон переменной "const bool _Nothrow_hash<std::hash<pos>,pos>"
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xhash(118,5): error C2056: недопустимое выражение
+  (компиляция исходного файла "Contests.cpp")
+  

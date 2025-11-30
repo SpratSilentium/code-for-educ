@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSrepos\\Contests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28699F86-C5F9-460B-B5A5-76B96B25CDD1}|Contests\\Contests.vcxproj|E:\\VSrepos\\Contests\\Contests\\Contests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28699F86-C5F9-460B-B5A5-76B96B25CDD1}|Contests\\Contests.vcxproj|solutionrelative:Contests\\Contests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28699F86-C5F9-460B-B5A5-76B96B25CDD1}|Contests\\Contests.vcxproj|E:\\VSrepos\\Contests\\Contests\\x64\\Debug\\Contests.exe.recipe||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{28699F86-C5F9-460B-B5A5-76B96B25CDD1}|Contests\\Contests.vcxproj|solutionrelative:Contests\\x64\\Debug\\Contests.exe.recipe||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28699F86-C5F9-460B-B5A5-76B96B25CDD1}|Contests\\Contests.vcxproj|E:\\VSrepos\\Contests\\Contests\\x64\\Debug\\Contests.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{28699F86-C5F9-460B-B5A5-76B96B25CDD1}|Contests\\Contests.vcxproj|solutionrelative:Contests\\x64\\Debug\\Contests.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28699F86-C5F9-460B-B5A5-76B96B25CDD1}|Contests\\Contests.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\ALGORITHM||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contests.log",
+              "DocumentMoniker": "E:\\VSrepos\\Contests\\Contests\\x64\\Debug\\Contests.log",
+              "RelativeDocumentMoniker": "Contests\\x64\\Debug\\Contests.log",
+              "ToolTip": "E:\\VSrepos\\Contests\\Contests\\x64\\Debug\\Contests.log",
+              "RelativeToolTip": "Contests\\x64\\Debug\\Contests.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-24T12:54:42.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contests.exe.recipe",
+              "DocumentMoniker": "E:\\VSrepos\\Contests\\Contests\\x64\\Debug\\Contests.exe.recipe",
+              "RelativeDocumentMoniker": "Contests\\x64\\Debug\\Contests.exe.recipe",
+              "ToolTip": "E:\\VSrepos\\Contests\\Contests\\x64\\Debug\\Contests.exe.recipe",
+              "RelativeToolTip": "Contests\\x64\\Debug\\Contests.exe.recipe",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-24T12:54:40.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "algorithm",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\algorithm",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\algorithm",
+              "ViewState": "AgIAAMMgAAAAAAAAAAAowNIgAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-12T15:58:06.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contests.cpp",
+              "DocumentMoniker": "E:\\VSrepos\\Contests\\Contests\\Contests.cpp",
+              "RelativeDocumentMoniker": "Contests\\Contests.cpp",
+              "ToolTip": "E:\\VSrepos\\Contests\\Contests\\Contests.cpp",
+              "RelativeToolTip": "Contests\\Contests.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-09T13:55:06.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
